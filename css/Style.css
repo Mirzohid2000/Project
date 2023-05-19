@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.asosiy{
+    width: 500px;
+    height: 400px;
+    margin: 100px auto;
+    /* background-color: blueviolet; */
+}
+.left{
+    width: 45%;
+    height: 400px;
+    display: inline-block;
+}
+    .box1{
+    width: 100%;
+    height: 190px;
+     background-color: black;
+}
+.box2{
+    width: 100%;
+    height: 190px;
+     background-color: rgb(19, 12, 213);
+     margin-top: 20px;
+}
+ .right{
+    width: 45%;
+    height: 100%;
+     background-color: rgb(170, 222, 16);
+     display: inline-block;
+     margin-left:5%;
+}
